@@ -79,7 +79,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg3ODYwNjUsIm5iZiI6MTczODc4NTc2NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA1VDIwMDI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzODg4ZmQ5M2MyMjI0ZDczNjdmOGNmNGEzODUxYzA4M2JjMTFjYWY5MjIxN2QxOGNjZWYyNDU1YmM5ZmRhMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WPTrWYjk2X8Yk1QkJ82QVCibNlbtxgyszRhfOL5clQQ"  />
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg3ODk2MTQsIm5iZiI6MTczODc4OTMxNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA1VDIxMDE1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwNjY1NzQ4NTE3N2U0NTk0Mzg2NzI4ZGEyYmYyYjBmZjU5N2ExZTM5NzM1YWQ3ZjM1NjY1MGI1MGI5M2YyOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j769C7oM4Pm2MQstMeP9qq6LmFv0j6LM2LruHVjJtjM"  />
 </div>
 
 ###
@@ -91,7 +91,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=theshubham07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=theshubham07&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -99,10 +99,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshubham07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theshubham07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=theshubham07&theme=dracula&column=-1&row=1&margin-w=8&margin-h=28&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshubham07&radius=16&theme=noctis-minimus&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=theshubham07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theshubham07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=theshubham07&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=28&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshubham07&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
