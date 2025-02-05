@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Adarsh Mishra, a passionate developer from Ghaziabad. I love exploring new technologies and building innovative solutions.<br><br>- 🔭 I’m  currently working on Krishi Mitra<br>- 🌱 I'm currently learning Android Development<br>- ⚡ In my free time I love listening music and reading books</p>
+<p align="left">I'm Adarsh Mishra, a passionate developer from Ghaziabad. I love exploring new technologies and building innovative solutions.<br><br>- 🔭 I’m  currently working on Krishi Mitra.<br>- 🌱 I'm currently learning Android Development. <br>- ⚡ In my free time, I love listening to music and reading books.</p>
 
 ###
 
