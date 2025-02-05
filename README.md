@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -84,14 +84,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
+<div align="center">
+<a href="https://github.com/theshubham07">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theshubham07&theme=gotham" height="180em" />
+</div>
 
 ###
 
 <br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshubham07&theme=radical&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshubham07&locale=en&mode=daily&theme=github-dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -102,12 +105,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=theshubham07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theshubham07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=theshubham07&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=28&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theshubham07&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
+
+
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=theshubham07&theme=gotham"/>
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/theshubham07/theshubham07/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/theshubham07/theshubham07/output/snake.svg" height= " 300" width = " 1300" alt="Snake animation" />
 
 ###
 
@@ -116,3 +123,4 @@
 </div>
 
 ###
+
