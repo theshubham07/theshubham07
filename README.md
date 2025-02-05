@@ -1,22 +1,47 @@
+## Hi there! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theshubham07/) 
+I'm **Adarsh Mishra**, a passionate developer from **Ghaziabad**. I love exploring new technologies and building innovative solutions. Let's create something amazing together!
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theshubham07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theshubham07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubham07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theshubham07&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+I'm a software developer based in Ghaziabad, currently focusing on enhancing my skills in various programming languages and technologies. I enjoy tackling complex problems and turning ideas into reality.
 
+## Skills & Technologies
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=theshubham07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+cpp,html,css,git,mysql,flutter,firebase,py,pycharm,vscode,github,linux,anaconda,aws,sklearn
 
----
-[![](https://visitcount.itsvg.in/api?id=theshubham07&icon=2&color=7)](https://visitcount.itsvg.in)
+## Top Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [**TravelBuddy**](https://github.com/theshubham07/TravelBuddy) - A travel planning application.
+  - ⭐ 0 Stars | 🌐 HTML
+  - Forks: 0 | Issues: 0
+
+- [**DSMP_1.0**](https://github.com/theshubham07/DSMP_1.0) - Data Science Mini Project.
+  - ⭐ 0 Stars | Language: N/A
+  - Forks: 0 | Issues: 0
+
+- [**Learning_Git**](https://github.com/theshubham07/Learning_Git) - A repository to learn Git and version control.
+  - ⭐ 0 Stars | Language: N/A
+  - Forks: 1 | Issues: 0
+
+- [**Problem-Solving**](https://github.com/theshubham07/Problem-Solving) - A collection of coding problems solved in C++.
+  - ⭐ 0 Stars | Language: C++
+  - Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+📊 **GitHub Stats**
+- Public Repositories: 6  
+- Followers: 2  
+- Following: 4  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshubham07&show_icons=true&theme=radical)
+
+## Connect with Me
+
+{"twitter":"https://twitter.com/@theshubham_07","linkedin":"https://www.linkedin.com/in/theshubham07"}
+
+## Publications
+
+- [Hybrid machine learning techniques for travel recommendations](https://ieeexplore.ieee.org/abstract/document/10541426) -
+ IEEE (ICAC3N), 2024
